@@ -1,0 +1,161 @@
+﻿#down
+{
+        margin-top:15%;
+}
+#down1
+{
+    margin-top:10%;
+}
+#down2
+{
+    margin-top:15%;
+}
+.checkbox-custom, .radio-custom {
+    opacity: 0;
+    position: absolute;   
+}
+.checkbox-custom, .checkbox-custom-label, .radio-custom, .radio-custom-label {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.radio-custom-label {
+    position: relative;
+}
+
+.radio-custom + .radio-custom-label:before {
+    content: '';
+    background: #fff;
+    border: 2px solid #ddd;
+    display: inline-block;
+    vertical-align: middle;
+    width: 25px;
+    height: 25px;
+    padding: 2px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.radio-custom + .radio-custom-label:before {
+    border-radius: 50%;
+}
+
+.radio-custom:checked + .radio-custom-label:before {
+    content: "\f00c";
+    font-family: 'FontAwesome';
+    color: #bbb;
+}
+
+.radio-custom:focus + .radio-custom-label {
+  /*outline: 1px solid #009688; */
+}
+.list-group li {
+    list-style: none;
+}
+.panel-info, .panel-rating, .panel-more1 {
+    float: left;
+    margin: 0 10px;
+}
+.mainbox{
+  font-family: calibri;
+  box-sizing: border-box;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+.card{
+height: 195%;
+width: 100%;
+/*border: 1px solid gray;*/
+box-shadow: 1px 1px 3px #888;
+/*border-top: 10px solid green;*/
+/*min-height: 250px;*/
+/*padding: 10px;
+margin: 10px;*/
+}
+
+.small_size{
+  border-radius: 0%;
+  width: 130px;
+  margin: 10px;
+  height:auto;
+  width: auto;
+  display:block;
+  max-width: 100%; 
+  margin-top: 20%
+}
+@media (min-width: 700px) {
+    .small_size {
+        border-radius: 50%;
+    }
+}
+
+h1{
+  font-weight: lighter;
+  margin-left: 180px;
+  margin-top: -142px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*#right{
+
+  margin-top: 17px;
+  margin: 36px;
+  font-family: segoe ui;
+  line-height: 1.4em;
+  font-size: 1.2em;
+  margin-left: 180px;
+ 
+}*/
+
+/*.resize {
+    left:20%;
+}*/
+/*.card1 {
+    width: 100%;
+    /*border: 1px solid gray;*/
+    /*box-shadow: 1px 1px 3px #888;*/
+    /*border-top: 10px solid green;*/
+    /*min-height: 250px;*/
+    /*padding: 10px;
+    margin: 10px;
+}*/
+/*#move
+{
+    font-family: segoe ui;
+  line-height: 1.4em;
+  font-size: 1.2em;
+  margin-left: 414px;
+  margin-top: -124px;
+}
+
+#move1
+{
+    font-family: segoe ui;
+  line-height: 1.4em;
+  font-size: 1.2em;
+  margin-left: 414px;
+  margin-top: 42px;
+}*/
+/*.size1{
+     border-radius: 50%;
+  width: 50px;
+  margin: 10px;
+}*/
+/*.last{
+        position: relative;
+    left: 44%;
+    top: -59px;
+}*/

@@ -1,0 +1,6 @@
+c:\users\kajal\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\kajal\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\kajal\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\kajal\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\kajal\documents\visual studio 2012\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Kajal\Documents\Visual Studio 2012\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
